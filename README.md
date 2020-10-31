@@ -1,0 +1,1 @@
+My first the Odin Project project, recreating the Google homepage without full functionality. Demonstrated skills: Basic CSS and HTML. No Javascript included yet.
